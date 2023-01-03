@@ -1,0 +1,7 @@
+SOURCE = \
+incompressibleThreePhaseMixture/incompressibleThreePhaseMixture.C \
+threePhaseInterfaceProperties/threePhaseInterfaceProperties.C \
+immiscibleIncompressibleThreePhaseMixture/immiscibleIncompressibleThreePhaseMixture.C \
+TestMM.C \
+
+# sources
